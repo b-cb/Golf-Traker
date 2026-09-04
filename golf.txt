@@ -1,0 +1,17 @@
+[
+      { par: 4, tee: { lat: 42.791202, lon: 0.601721 }, greenEntry: { lat: 42.788392, lon: 0.601717 }, flag: { lat: 42.788272, lon: 0.601729 }, map: { src: 'luchon_01.png', bounds: { topLat: 42.791254, bottomLat: 42.787938, leftLon: 0.601439, rightLon: 0.602214 } } },
+      { par: 4, tee: {lat: 42.788068, lon: 0.602869}, greenEntry: { lat: 42.787802, lon: 0.601444 }, flag: { lat: 42.787785, lon: 0.601307 }, map: { src: 'luchon_02.png', bounds: { topLat: 42.788205, bottomLat: 42.787638, leftLon: 0.601188, rightLon: 0.602970 } } },
+      
+      
+      
+      { par: 3, tee: {lat: 42.788115, lon: 0.601357}, greenEntry: { lat: 42.790955, lon: 0.601436 }, flag: { lat: 42.791080, lon: 0.601465 }, map: { src: 'luchon_03.png', bounds: { topLat: 42.791227, bottomLat: 42.787995, leftLon: 0.601195, rightLon: 0.601613 } } },
+      
+      
+      
+      { par: 4, tee: null, greenEntry: { lat: 42.7948, lon: 0.6012 }, flag: { lat: 42.7950, lon: 0.6013 }, map: { src: 'luchon_04.png', bounds: { topLat: 42.7965, bottomLat: 42.7930, leftLon: 0.5987, rightLon: 0.6037 } } },
+      { par: 3, tee: null, greenEntry: { lat: 42.7940, lon: 0.6008 }, flag: { lat: 42.7941, lon: 0.6009 }, map: { src: 'luchon_05.png', bounds: { topLat: 42.7957, bottomLat: 42.7922, leftLon: 0.5983, rightLon: 0.6033 } } },
+      { par: 4, tee: null, greenEntry: { lat: 42.7933, lon: 0.6004 }, flag: { lat: 42.7934, lon: 0.6006 }, map: { src: 'luchon_06.png', bounds: { topLat: 42.7950, bottomLat: 42.7915, leftLon: 0.5979, rightLon: 0.6029 } } },
+      { par: 4, tee: null, greenEntry: { lat: 42.7926, lon: 0.6010 }, flag: { lat: 42.7928, lon: 0.6011 }, map: { src: 'luchon_07.png', bounds: { topLat: 42.7943, bottomLat: 42.7908, leftLon: 0.5985, rightLon: 0.6035 } } },
+      { par: 4, tee: null, greenEntry: { lat: 42.7920, lon: 0.6018 }, flag: { lat: 42.7921, lon: 0.6020 }, map: { src: 'luchon_08.png', bounds: { topLat: 42.7937, bottomLat: 42.7902, leftLon: 0.5993, rightLon: 0.6043 } } },
+      { par: 3, tee: null, greenEntry: { lat: 42.7915, lon: 0.6025 }, flag: { lat: 42.7916, lon: 0.6026 }, map: { src: 'luchon_09.png', bounds: { topLat: 42.7932, bottomLat: 42.7897, leftLon: 0.6000, rightLon: 0.6050 } } }
+    ]

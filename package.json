@@ -1,0 +1,18 @@
+{
+  "name": "golf-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "rm -rf dist && zeus dev",
+    "build": "rm -rf dist && zeus build",
+    "clean": "rm -rf dist",
+    "fetch-maps": "python3 scripts/fetch_ign_maps.py",
+    "preview": "zeus preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@zeppos/device-types": "^1.0.0"
+  }
+}

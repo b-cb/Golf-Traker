@@ -1,0 +1,31 @@
+=== Simulator Debug Log Started ===
+Timestamp: 2026-09-02T12:05:26.499Z
+
+2026-09-02T12:06:19.394Z [L0]: [firmware_simulator]: simulator opening...
+2026-09-02T12:06:20.505Z [L0]: I>0>19.683 quickjs- SBEngine [jsrt-2.1.0-201] [2026-09-02T20:06:19.678Z] [jsfwk.log  ] [framework] [-] framework init
+2026-09-02T12:06:20.507Z [L0]: I>0>19.686 quickjs- SBEngine [jsrt-2.1.0-201] [2026-09-02T20:06:19.684Z] [jsfwk.log  ] [framework] [-] framework version => 2.1.0-201
+2026-09-02T12:06:20.508Z [L0]: I>0>19.688 quickjs- SBEngine [jsrt-2.1.0-201] [2026-09-02T20:06:19.687Z] [jsfwk.log  ] [framework] [-] framework buildDate => 2023-05-25T15:43:07.174Z 
+2026-09-02T12:06:22.278Z [L0]: I>0>19.689 quickjs- SBEngine [jsrt-2.1.0-201] [2026-09-02T20:06:19.688Z] [jsfwk.log  ] [framework] [-] framework commit => 6916ab9
+2026-09-02T12:06:22.279Z [L0]: I>0>21.460 quickjs- SBEngine ----->>>current
+2026-09-02T12:06:22.280Z [L0]: I>0>21.460 quickjs- SBEngine 2 
+2026-09-02T12:06:22.280Z [L0]: I>0>21.460 quickjs- SBEngine [object Object] 
+2026-09-02T12:06:22.299Z [L0]: D>0>21.461 js_fs_co SBEngine js_read_file: file: /storage/system/simulator_cfg.json
+2026-09-02T12:06:22.416Z [L0]: I>0>21.482 quickjs- SBEngine index page.js on init invoke
+2026-09-02T12:06:22.417Z [L0]: I>0>21.598 quickjs- SBEngine ui pause 
+2026-09-02T12:06:34.856Z [L0]: I>0>21.598 js_timer SBEngine js_StopTimer timer(0), pcid(lX) id(1)
+2026-09-02T12:06:34.858Z [L0]: I>0>34.038 quickjs- SBEngine current filepath: /app.js
+2026-09-02T12:06:34.895Z [L0]: I>0>34.041 quickjs- SBEngine app on create invoke
+2026-09-02T12:06:34.901Z [L0]: I>0>34.077 quickjs- SBEngine current filepath: /page/index.js?commonjs-entry
+2026-09-02T12:06:34.904Z [L0]: I>0>34.083 quickjs- SBEngine Mini Program Error ReferenceError: 'module' is not defined
+2026-09-02T12:06:34.905Z [L0]: I>0>34.086 quickjs- SBEngine error stack     at <anonymous> (/storage/data/js_apps/00004E20/page/index.js:627) 
+2026-09-02T12:06:34.905Z [L0]: I>0>34.086 quickjs- SBEngine error stack     at <eval> (/storage/data/js_apps/00004E20/page/index.js:629) 
+2026-09-02T12:06:34.964Z [L0]: I>0>34.086 quickjs- SBEngine error stack
+2026-09-02T12:06:34.989Z [L0]: I>0>34.146 quickjs- SBEngine ui pause 
+2026-09-02T12:58:15.285Z [L0]: I>0>34.146 js_timer SBEngine js_StopTimer timer(0), pcid(lX) id(1)
+2026-09-02T12:58:15.289Z [L0]: I>0>14.467 quickjs- SBEngine current filepath: /page/game.js?commonjs-entry
+2026-09-02T12:58:15.291Z [L0]: I>0>14.472 quickjs- SBEngine Mini Program Error ReferenceError: 'module' is not defined
+2026-09-02T12:58:15.291Z [L0]: I>0>14.473 quickjs- SBEngine error stack     at <anonymous> (/storage/data/js_apps/00004E20/page/game.js:1264) 
+2026-09-02T12:58:15.293Z [L0]: I>0>14.473 quickjs- SBEngine error stack     at <eval> (/storage/data/js_apps/00004E20/page/game.js:1266)
+2026-09-02T12:58:15.293Z [L0]: I>0>14.473 quickjs- SBEngine error stack  
+2026-09-02T12:58:15.340Z [L0]: I>0>14.474 js_rt_ap SBEngine js_rt_loadContiner: succeed, appid(00004E20) pcid(lX)
+2026-09-02T12:58:15.340Z [L0]: I>0>14.474 js_rt_co SBEngine runContinerFunc: run Continer func: onInit
