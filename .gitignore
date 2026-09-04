@@ -13,4 +13,4 @@ selenium-debug.log
 *.ntvs*
 *.njsproj
 *.sln
-.agent
+.agent/*
